@@ -1,3 +1,22 @@
-body{
-    background-image: url("images/home.jpg");
-}       
+html,body{
+    background-image: url("../images/home.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100%
+}   
+.menuBar{
+    background-color: white;
+    border-radius: 50px;
+    height: 38px;
+    box-shadow: -3px 3px 11px black;
+}
+.logo{
+    width: 60%;
+} 
+.menuList{
+    list-style: none;
+}
+.menuList li{
+    display: inline;
+    font-size: xx-small;
+}
