@@ -11,12 +11,19 @@ html,body{
     box-shadow: -3px 3px 11px black;
 }
 .logo{
-    width: 60%;
+    width: 2rem;
+    margin-top: 5px;
+    text-align: center;
 } 
 .menuList{
     list-style: none;
+    text-align: center;
+    word-spacing: 1rem;
 }
 .menuList li{
     display: inline;
     font-size: xx-small;
+}
+.buttons{
+    text-align: center;
 }
