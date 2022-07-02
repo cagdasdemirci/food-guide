@@ -1,0 +1,36 @@
+*{
+    background-color: white;
+    color: rgb(102, 96, 96);
+}
+.card-group{
+    margin-top: 75px;
+    margin-right: 10px;
+    margin: 5px;
+    padding: 25px;
+    
+}
+.cardİcerik{
+    background-color: white;
+    border-radius: 150px;
+    width: 1000px;
+    height: 100px;
+    text-align: center;
+    margin-left: 50px;
+    
+}
+.btn{
+    border: 5px;
+    border-color: rgb(80, 74, 74);
+    color: rgb(192, 189, 189);
+    background-color: black;
+    box-shadow: -3px 3px 11px black;
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+.btn:hover{
+   color: black;
+   background-color: white;
+}
+
