@@ -9,6 +9,7 @@ html,body{
     border-radius: 50px;
     height: 38px;
     box-shadow: -3px 3px 11px black;
+    
 }
 .logo{
     width: 2rem;
@@ -26,4 +27,20 @@ html,body{
 }
 .buttons{
     text-align: center;
+}
+.icerik{
+    margin-top: 8rem;
+    color: rgb(192, 189, 189);
+}
+.btn{
+    border: 5px;
+    border-color: rgb(80, 74, 74);
+    color: rgb(192, 189, 189);
+    background-color: rgb(80, 74, 74);
+    box-shadow: -3px 3px 11px black;
+    border-radius: 10px;
+}
+.btn:hover{
+   color: black;
+   background-color: white;
 }
